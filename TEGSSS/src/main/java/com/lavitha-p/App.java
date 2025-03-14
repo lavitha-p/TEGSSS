@@ -1,4 +1,4 @@
-package com.lavitha-p;
+package com.lavitha_p;
 
 /**
  * Hello world!
