@@ -1,4 +1,4 @@
-package com.lavitha-p;
+package com.lavitha_p;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
